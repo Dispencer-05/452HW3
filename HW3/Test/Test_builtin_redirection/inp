@@ -1,0 +1,3 @@
+pwd > /tmp/hw3-builtin-redirection
+cat < /tmp/hw3-builtin-redirection
+rm /tmp/hw3-builtin-redirection

@@ -1,0 +1,3 @@
+printf hello > /tmp/hw3-redirection-test
+cat < /tmp/hw3-redirection-test
+rm /tmp/hw3-redirection-test
