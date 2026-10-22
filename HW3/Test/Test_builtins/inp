@@ -1,3 +1,2 @@
 cd /tmp ; pwd
-cd - ; pwd
-history
+cd - ; cd /tmp ; pwd

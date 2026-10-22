@@ -1,5 +1,2 @@
 /tmp
-/mnt/c/Users/Sam Kleman/CS projects/CS_452/HW3
-cd /tmp ; pwd
-cd - ; pwd
-history
+/tmp
